@@ -25,9 +25,8 @@
 
 <script>
 import Sidemenu from './../components/SidemenuPlugin/Sidemenu.vue';
-
-import DasboardContent from './../components/DasboardContent.vue';
-import ContentFooter from './../components/ContentFooter.vue';
+import DasboardContent from './../layout/DasboardContent.vue';
+import ContentFooter from './../layout/ContentFooter.vue';
 
 export default {
     components: {

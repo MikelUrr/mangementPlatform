@@ -13,7 +13,7 @@ import { createRouter, createWebHistory } from 'vue-router'
 
 
 //router setup
-import routes from './js/router/router.js'
+import routes from './router/router.js'
 
 
 const router = createRouter({

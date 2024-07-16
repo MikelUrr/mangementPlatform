@@ -11,7 +11,7 @@
 </template>
 
 <script>
-import TopNavBar from './../components/TopNavBar.vue';
+import TopNavBar from './TopNavBar.vue';
 export default {
     name: 'DashboardContent',
     // Add your component logic here 
